@@ -60,17 +60,17 @@ spotify-mood-classifier/
 ---
 
 📌 Tech Stack
--Languages: Python
--Libraries: Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn, Streamlit, Joblib
--Model: Classifier trained on mood-labeled data
+- Languages: Python
+- Libraries: Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn, Streamlit, Joblib
+- Model: Classifier trained on mood-labeled data
 
 ---
 
 ✨ Future Improvements
--Add more mood categories
--Train using larger and more recent datasets
--Enable audio preview for each track
--Deploy publicly on Streamlit Cloud
+- Add more mood categories
+- Train using larger and more recent datasets
+- Enable audio preview for each track
+- Deploy publicly on Streamlit Cloud
 
 ---
 
@@ -80,5 +80,5 @@ Thanks to Spotify, Kaggle contributors, and the open-source ML community for the
 ---
 
 📬 Contact
--Creator: Aditi   
--LinkedIn: https://www.linkedin.com/in/aditi-patil-52992115b/ 
+- Creator: Aditi   
+- LinkedIn: https://www.linkedin.com/in/aditi-patil-52992115b/ 
